@@ -54,3 +54,5 @@ Then you can run our build script for the `lite` image which extracts the Vitess
 
 
 1.  Launch [Vitess on Kubernetes](https://vitess.io/docs/get-started/index.html) as usual.
+
+<!-- CI gate test: docs-only change. -->
